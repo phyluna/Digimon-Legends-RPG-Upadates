@@ -1,4 +1,4 @@
 
-<Version: 1.01>
+<Version: 1.00>
 /img/titles1/TituloA.rpgmvp https://download1078.mediafire.com/cpettwszwnmg/ohdcdx8ksy38ljn/TituloA.rpgmvp
 <End of Version>
