@@ -1,19 +1,12 @@
 {
     "Arquivos": [
         {
-            "nome": "Imagem-Titulo",
+            "nome": "imagem-titulo",
             "versão": "1.00",
-            "tipo": "png",
+            "tipo": "rpgmvp",
             "pasta": "img/titles1",
             "link": "http://download1078.mediafire.com/51qq2v3ctwmg/ohdcdx8ksy38ljn/TituloA.rpgmvp"
-        },
-        {
-            "nome": "wordpress",
-            "versão": "1.00",
-            "tipo": "zip",
-            "pasta": "system/updates",
-            "link": "https://br.wordpress.org/wordpress-4.9.6-pt_BR.zip"
-        }        
+        },     
     ],
     "Status": {
         "nome": "Teste de Atualização",
