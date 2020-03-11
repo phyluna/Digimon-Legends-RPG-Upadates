@@ -1,11 +1,10 @@
-
 {
     "Arquivos": [
         {
             "nome": "TituloA",
             "versão": "1.00",
             "tipo": "rpgmvp",
-            "pasta": "",
+            "pasta": "img/titles1",
             "link": "http://download1078.mediafire.com/ennlcytf5x3g/ohdcdx8ksy38ljn/TituloA.rpgmvp"
         }       
     ],
