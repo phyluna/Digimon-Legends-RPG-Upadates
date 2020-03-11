@@ -1,0 +1,27 @@
+{
+    "Arquivos": [
+        {
+            "nome": "vector-shaman-elder",
+            "versão": "1.00",
+            "tipo": "png",
+            "pasta": "",
+            "link": "http://download1078.mediafire.com/ennlcytf5x3g/ohdcdx8ksy38ljn/TituloA.rpgmvp"
+        },
+        {
+            "nome": "wordpress",
+            "versão": "1.00",
+            "tipo": "zip",
+            "pasta": "system/updates",
+            "link": "https://br.wordpress.org/wordpress-4.9.6-pt_BR.zip"
+        }        
+    ],
+    "Status": {
+        "nome": "Atualização 2018",
+        "versão": "1.00",
+        "descrição": "Primeira atualização de 2018",
+        "mudanças": [
+            "Adição de uma IMAGEM",
+            "Criação do sistema de gerenciamento de atualizações"
+        ]
+    }
+}
