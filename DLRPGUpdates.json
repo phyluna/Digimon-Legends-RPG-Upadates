@@ -3,9 +3,9 @@
 		{
 			"nome": "imagem-titulo",
 			"versão": "1.00",
-			"tipo": "rpgmvp"
-			"pasta": "",
-			"link": "https://github.com/phyluna/Digimon-Legends-RPG-Upadates/raw/Arquivos/TituloA.rpgmvp"
+			"tipo": "rar"
+			"pasta": "img/titles1",
+			"link": "https://github.com/phyluna/Digimon-Legends-RPG-Upadates/raw/Arquivos/TituloA.rar"
 		},
 	],
 	"Status": {
