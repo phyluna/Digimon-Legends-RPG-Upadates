@@ -1,0 +1,20 @@
+{
+    "Arquivos": [
+        {
+            "nome": "TituloA",
+            "versão": "1.00",
+            "tipo": "rpgmvp",
+            "pasta": "",
+            "link": "http://download1078.mediafire.com/ennlcytf5x3g/ohdcdx8ksy38ljn/TituloA.rpgmvp"
+        }       
+    ],
+    "Status": {
+        "nome": "Atualização 2018",
+        "versão": "1.00",
+        "descrição": "Primeira atualização de 2018",
+        "mudanças": [
+            "Adição de uma IMAGEM",
+            "Criação do sistema de gerenciamento de atualizações"
+        ]
+    }
+}
