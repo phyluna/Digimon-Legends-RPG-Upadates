@@ -1,175 +1,103 @@
 {
-    "Remover_Arquivos": [
-        {
-            "nome": "Actors",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Animations",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Armors",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "CommonEvents",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Enemies",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Items",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "MapInfos",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Skills",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "States",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "System",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Tilesets",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Troops",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Weapons",
-            "tipo": "json",
-            "pasta": "data/"
-        },
-		        {
-            "nome": "Classes",
-            "tipo": "json",
-            "pasta": "data/"
-        }
-    ],
     "Arquivos": [
         {
             "nome": "Actors",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Actors.json"
         },
         {
             "nome": "Animations",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Animations.json"
         },
         {
             "nome": "Armors",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Armors.json"
         },
         {
             "nome": "Classes",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Classes.json"
         },
         {
             "nome": "CommonEvents",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/CommonEvents.json"
         },
         {
             "nome": "Enemies",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Enemies.json"
         },
         {
             "nome": "Items",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Items.json"
         },
         {
             "nome": "MapInfos",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/MapInfos.json"
         },
         {
             "nome": "Skills",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Skills.json"
         },
         {
             "nome": "States",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/States.json"
         },
         {
             "nome": "System",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/System.json"
         },
         {
             "nome": "Tilesets",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Tilesets.json"
         },
         {
             "nome": "Troops",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Troops.json"
         },
         {
             "nome": "Weapons",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Weapons.json"
-        }		
+        },		
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
