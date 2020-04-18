@@ -1,7 +1,11 @@
 {
     "Arquivos": [
         {
-
+            "nome": "Sistema de ATT",
+            "versão": "1.00",
+            "tipo": "md",
+            "pasta": "img/titles1",
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/README.md"
         }       
     ],
     "Status": {
