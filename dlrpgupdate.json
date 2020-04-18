@@ -64,96 +64,96 @@
             "nome": "Weapons",
             "tipo": "json",
             "pasta": "data/"
-        }
+        },
     ],
     "Arquivos": [
         {
             "nome": "Animations",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Animations.json"
         },
         {
             "nome": "Armors",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Armors.json"
         },
         {
             "nome": "Classes",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Classes.json"
         },
         {
             "nome": "CommonEvents",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/CommonEvents.json"
         },
         {
             "nome": "Enemies",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Enemies.json"
         },
         {
             "nome": "Items",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Items.json"
         },
         {
             "nome": "MapInfos",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/MapInfos.json"
         },
         {
             "nome": "Skills",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Skills.json"
         },
         {
             "nome": "States",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/States.json"
         },
         {
             "nome": "System",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/System.json"
         },
         {
             "nome": "Tilesets",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Tilesets.json"
         },
         {
             "nome": "Troops",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Troops.json"
         },
         {
             "nome": "Weapons",
-            "versão": "1.01",
+            "versão": "1.00",
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Weapons.json"
@@ -161,7 +161,7 @@
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
-        "versão": "1.01",
+        "versão": "1.00",
         "descrição": "Correção do Dano de Hit Básico",
         "mudanças": [
             "O dano de hit básico estava muito baixo, agora foi corrigido."
