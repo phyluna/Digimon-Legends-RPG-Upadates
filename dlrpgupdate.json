@@ -1,12 +1,72 @@
 {
-    "Arquivos": [
+    "Remover_Arquivos": [
         {
-            "nome": "Actors",
-            "versão": "1.01",
+            "nome": "Animations",
             "tipo": "json",
-            "pasta": "data/",
-            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Actors.json"
+            "pasta": "data/"
         },
+		        {
+            "nome": "Armors",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Classes",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "CommonEvents",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Enemies",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Items",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "MapInfos",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Skills",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "States",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "System",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Tilesets",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Troops",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+		        {
+            "nome": "Weapons",
+            "tipo": "json",
+            "pasta": "data/"
+        },
+    ],
+    "Arquivos": [
         {
             "nome": "Animations",
             "versão": "1.01",
