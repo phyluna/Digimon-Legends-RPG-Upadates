@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"GM Room","order":1,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":2,"expanded":true,"name":"DATS Center","order":3,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":3,"expanded":false,"name":"Digimon Select","order":2,"parentId":1,"scrollX":918,"scrollY":625},
+{"id":4,"expanded":false,"name":"Small Forest Park","order":4,"parentId":0,"scrollX":982.6666666666666,"scrollY":642},
+{"id":5,"expanded":true,"name":"Small Forest Trail","order":5,"parentId":4,"scrollX":612,"scrollY":416.6666666666667},
+{"id":6,"expanded":false,"name":"Wood Bench Park","order":6,"parentId":4,"scrollX":601.3333333333334,"scrollY":406},
+{"id":7,"expanded":false,"name":"Gateway Dungeon","order":7,"parentId":0,"scrollX":982.6666666666666,"scrollY":642},
+{"id":8,"expanded":false,"name":"Gateway Dungeon","order":8,"parentId":7,"scrollX":832,"scrollY":640.6666666666666},
+{"id":9,"expanded":false,"name":"Gateway Dungeon","order":9,"parentId":7,"scrollX":612,"scrollY":416.6666666666667},
+{"id":10,"expanded":false,"name":"Western Village","order":10,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":11,"expanded":false,"name":"Wind Valley","order":11,"parentId":10,"scrollX":810.6666666666666,"scrollY":522},
+{"id":12,"expanded":false,"name":"Snowstorm Village","order":12,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":13,"expanded":false,"name":"Frozen Ground","order":13,"parentId":12,"scrollX":918,"scrollY":625},
+{"id":14,"expanded":false,"name":"Infinite Ice Wall","order":14,"parentId":12,"scrollX":1030.6666666666667,"scrollY":576.6666666666666},
+{"id":15,"expanded":false,"name":"Gateway Dungeon (Hard)","order":15,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":16,"expanded":false,"name":"Gateway Dungeon (Hard)","order":16,"parentId":15,"scrollX":612,"scrollY":416.6666666666667},
+{"id":17,"expanded":false,"name":"Gateway Dungeon (Hard)","order":17,"parentId":15,"scrollX":832,"scrollY":640.6666666666666},
+{"id":18,"expanded":false,"name":"Geko Swamp","order":18,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":19,"expanded":false,"name":"Geko Swamp","order":19,"parentId":18,"scrollX":918,"scrollY":625},
+{"id":20,"expanded":false,"name":"Geko Swamp","order":20,"parentId":18,"scrollX":918,"scrollY":625}
+]
