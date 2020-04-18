@@ -1,4 +1,12 @@
 {
+    ],
+    "Remover_Arquivos": [
+        {
+            "nome": "Actors",
+            "tipo": "json",
+            "pasta": "data/"
+        }
+    ],
     "Arquivos": [
         {
             "nome": "SistemaATT",
