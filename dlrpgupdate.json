@@ -69,7 +69,7 @@
             "nome": "Classes",
             "tipo": "json",
             "pasta": "data/"
-        },
+        }
     ],
     "Arquivos": [
         {
@@ -169,7 +169,7 @@
             "tipo": "json",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Weapons.json"
-        },		
+        }		
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
