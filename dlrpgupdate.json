@@ -1,26 +1,43 @@
 {
-    "Remover_Arquivos": [
-        {
-            "nome": "ATT",
-            "tipo": "rar",
-            "pasta": "data/"
-        }
-    ],
     "Arquivos": [
         {
-            "nome": "ATT",
-            "versão": "1.01",
+            "nome": "DataATT",
+            "versão": "1.00",
             "tipo": "rar",
             "pasta": "data/",
-            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/ATT.rar"
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/DataATT.rar"
+        },
+    "Arquivos": [
+        {
+            "nome": "Geko1",
+            "versão": "1.00",
+            "tipo": "rpgmvp",
+            "pasta": "img/battlebacks1",
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Geko1.rpgmvp"
+        },
+    "Arquivos": [
+        {
+            "nome": "Geko2",
+            "versão": "1.00",
+            "tipo": "rpgmvp",
+            "pasta": "img/battlebacks1",
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Geko2.rpgmvp"
+        },
+    "Arquivos": [
+        {
+            "nome": "Geko3",
+            "versão": "1.00",
+            "tipo": "rpgmvp",
+            "pasta": "img/battlebacks1",
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/Geko3.rpgmvp"
         }		
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
-        "versão": "1.02",
-        "descrição": "Correção do Dano de Hit Básico",
+        "versão": "1.03",
+        "descrição": "Correção Hatch Salamon e Mapa Geko Swamp",
         "mudanças": [
-            "Extraia o arquivo ATT que foi baixando dentro da sua pasta www/data e substitua todos os arquivos"
+            "Extraia o arquivo DataATT que foi baixando dentro da sua pasta www/data e substitua todos os arquivos"
         ]
     }
 }
