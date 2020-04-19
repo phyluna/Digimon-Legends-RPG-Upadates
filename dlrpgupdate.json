@@ -1,8 +1,15 @@
 {
+    "Remover_Arquivos": [
+        {
+            "nome": "ATT",
+            "tipo": "rar",
+            "pasta": "data"
+        }
+    ],
     "Arquivos": [
         {
             "nome": "ATT",
-            "versão": "1.00",
+            "versão": "1.01",
             "tipo": "rar",
             "pasta": "data/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/ATT.rar"
@@ -10,7 +17,7 @@
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
-        "versão": "1.01",
+        "versão": "1.02",
         "descrição": "Correção do Dano de Hit Básico",
         "mudanças": [
             "Extraia o arquivo ATT que foi baixando dentro da sua pasta www/data e substitua todos os arquivos"
