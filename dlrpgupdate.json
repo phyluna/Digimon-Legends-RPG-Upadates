@@ -1,11 +1,11 @@
 {
     "Arquivos": [
         {
-            "nome": "DataATT",
+            "nome": "DataATT001",
             "versão": "1.00",
             "tipo": "rar",
             "pasta": "data/",
-            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/DataATT.rar"
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/DataATT001.rar"
         },
         {
             "nome": "Geko1",
@@ -31,10 +31,12 @@
     ],
     "Status": {
         "nome": "Atualização Digimon Legends RPG",
-        "versão": "1.03",
-        "descrição": "Correção Hatch Salamon e Mapa Geko Swamp",
+        "versão": "1.04",
+        "descrição": "COrreção Menu não Abre e Adicionado Renomear Digimon",
         "mudanças": [
-            "Extraia o arquivo DataATT que foi baixando dentro da sua pasta www/data e substitua todos os arquivos"
+            "Extraia o arquivo DataATT001 que foi baixando dentro da sua pasta www/data e substitua todos os arquivos",
+			"Feche o jogo e abra novamente",
+			"Fale com a NPC Hanna ao lado do Thomas para corrigir o erro de inventário ou renomear digimon"
         ]
     }
 }
