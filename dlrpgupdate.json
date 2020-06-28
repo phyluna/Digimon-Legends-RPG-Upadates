@@ -20,6 +20,13 @@
             "tipo": "rar",
             "pasta": "ATTDLRPG/",
             "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/FIXATT105.rar"
+        },
+        {
+            "nome": "FIXOMEGABATTLE105",
+            "versão": "1.00",
+            "tipo": "rar",
+            "pasta": "ATTDLRPG/",
+            "link": "https://raw.githubusercontent.com/phyluna/Digimon-Legends-RPG-Upadates/Arquivos/FIXOMEGABATTLE105.rar"
         }		
     ],
     "Status": {
@@ -29,6 +36,7 @@
         "mudanças": [
             "Extraia o arquivos ATT105P1 e ATT105P2 que foi baixando dentro da sua pasta www e substitua todos os arquivos",
 			"Extraia o arquivo FIXATT105 que foi baixado, copie para a pasta WWW e substitua todos os arquivos que pedir",
+			"Adicionado FIXOMEGABATTLE105 para corrigir o erro ao tentar lutar utilizando omegamon, extraia e copie para a pasta www",
 			"Feche o jogo e abra novamente"
         ]
     }
